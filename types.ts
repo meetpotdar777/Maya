@@ -1,5 +1,5 @@
-
 export interface Message {
+  id: string;
   role: 'user' | 'maya';
   text: string;
   timestamp: Date;

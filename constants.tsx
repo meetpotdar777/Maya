@@ -1,4 +1,3 @@
-
 export const MAYA_IDENTITY = `
 You are Maya, a highly intuitive, warm, and witty AI voice assistant. 
 You are a conversational partner, a mix of a supportive friend and a sharp-witted colleague.
@@ -22,6 +21,6 @@ Safety:
 export const MODELS = {
   LIVE: 'gemini-2.5-flash-native-audio-preview-12-2025',
   THINKING: 'gemini-3-pro-preview',
-  SEARCH: 'gemini-2.5-flash-lite-latest', // 2.5 series required for Maps grounding
+  SEARCH: 'gemini-flash-lite-latest', 
   IMAGE: 'gemini-2.5-flash-image',
 };
