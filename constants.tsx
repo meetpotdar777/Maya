@@ -21,7 +21,7 @@ Safety:
 
 export const MODELS = {
   LIVE: 'gemini-2.5-flash-native-audio-preview-12-2025',
-  LITE: 'gemini-2.5-flash-lite-latest',
   THINKING: 'gemini-3-pro-preview',
-  SEARCH: 'gemini-3-flash-preview',
+  SEARCH: 'gemini-2.5-flash-lite-latest', // 2.5 series required for Maps grounding
+  IMAGE: 'gemini-2.5-flash-image',
 };
