@@ -1,0 +1,7 @@
+{
+  "name": "Maya Voice Assistant",
+  "description": "A warm, witty, and highly intuitive AI voice assistant designed for natural, real-time conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
